@@ -1,4 +1,7 @@
-![](https://github-readme-stats.vercel.app/api?username=Nicolerobinn)
+## Hi, I'm Nick 👨‍💻‍
+
+![](https://github-readme-stats.vercel.app/api?username=Nicolerobinn&show_icons=true&theme=tokyonight)
+
 
 ## This is me
 * 擅长 React 以及相关技术栈，喜欢推行 TypeScript。
