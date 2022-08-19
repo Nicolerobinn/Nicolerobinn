@@ -1,6 +1,7 @@
 ## Hi, I'm Nick 👨‍💻‍
 
 ![](https://github-readme-stats.vercel.app/api?username=Nicolerobinn&show_icons=true&theme=tokyonight)
+![](https://activity-graph.herokuapp.com/graph?username=Nicolerobinn&theme=dracula)
 
 
 ## This is me
