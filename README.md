@@ -2,11 +2,13 @@
 
 
 ## This is me
-* 擅长 JavaScript 以及相关技术栈，喜欢推行 TypeScript。
 
-* 擅长在工作中寻找乐趣，喜欢和朋友同事一起共同解决问题，想把事情做得更好。
+I research ways to make programming better for everyone by studying developers and programming communities aswell as designing intelligent tools that make building software easier.
 
-* 喜欢钻研新的点子，学习新的技术，不断进取。
+* Good at JavaScript and related technology stacks, like to promote TypeScript.
 
-* 希望滴水成河，小努力成就大的结果
+* Like using react-native, tauri, learning rust.
 
+* I am good at finding fun in work, like to solve problems with friends and colleagues, and want to do things better.
+
+* I like to explore new ideas, learn new techniques and keep moving forward.
