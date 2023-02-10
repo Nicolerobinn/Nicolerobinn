@@ -7,7 +7,7 @@ I research ways to make programming better for everyone by studying developers a
 
 * Good at JavaScript and related technology stacks, like to promote TypeScript.
 
-* Like using react-native, tauri. And I'm  learning rust.
+* Like using react-native, tauri. And I'm  learning rust and rescript.
 
 * I am good at finding fun in work, like to solve problems with friends and colleagues, and want to do things better.
 
